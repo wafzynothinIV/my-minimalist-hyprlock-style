@@ -4,7 +4,7 @@ Something Unusual Hyprlock File (lock screen but in android style)
 # What is Hyprlock?
 Hyprlock is a simple, yet fast, multi-threaded and GPU-accelerated screen lock for hyprland | [Hyprlock in Hyprland Wiki](https://wiki.hyprland.org/hyprland-wiki/pages/Hypr-Ecosystem/hyprlock/)
 
-# Installation
+# Installation / How To Install hyprlock?
 - Just install through in the [Hyprlock Repository.](https://github.com/hyprwm/hyprlock)
 
 # How To Download That File?
