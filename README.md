@@ -9,7 +9,7 @@ Hyprlock is a simple, yet fast, multi-threaded and GPU-accelerated screen lock f
 
 # How To Download That File?
 - just clone it. (Still FIXING)
-- seperate? patient, i'm still fixing
+- want a separate? patient, i'm still fix it
 
 # Preview
 - With "fade_on_empty = false" ![preview with "fade_out_empty = false"](https://github.com/user-attachments/assets/dbcc392a-60d8-4fce-99d6-e3fd5aa0a5ec)
