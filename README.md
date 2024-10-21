@@ -8,8 +8,8 @@ Hyprlock is a simple, yet fast, multi-threaded and GPU-accelerated screen lock f
 - Just install through in the [Hyprlock Repository.](https://github.com/hyprwm/hyprlock)
 
 # How To Download That File?
-- just clone it. (Still FIXING)
-- want a separate? patient, i'm still fix it
+- just clone it. (just try it)
+- want a separate? alright, [here the separated version](https://github.com/wafzynothinIV/my-minimalist-hyprlock-style/releases)
 
 # Preview
 - With "fade_on_empty = false" ![preview with "fade_out_empty = false"](https://github.com/user-attachments/assets/dbcc392a-60d8-4fce-99d6-e3fd5aa0a5ec)
