@@ -14,7 +14,7 @@ Hyprlock is a simple, yet fast, multi-threaded and GPU-accelerated screen lock f
 
 > [IMPORTANT!]
 > - the "/path/to/image" in the label background, is using picture/image file path/directory on your system.
-> - the "-YourFavoriteCharacterName♡" in the label essential, put you favorite character name in that. (i have issue)
+> - the "-YourFavoriteCharacterName♡" in the label essential, put your favorite character name in that. (i have issue)
 > - never change anything or it will broken. (idk)
 
 # Preview
