@@ -1,6 +1,9 @@
 # My Minimalist Hyprlock Style | Android Style Btw
 Something Unusual Hyprlock File (lock screen but in android style) + it's not minimalist yet until you change that wallpaper
 
+# Currently Status: Not Updating
+idk why i never update this but i feel the animation fade is gone off on my device.
+
 # What is Hyprlock?
 Hyprlock is a simple, yet fast, multi-threaded and GPU-accelerated screen lock for hyprland | [Hyprlock in Hyprland Wiki](https://wiki.hyprland.org/hyprland-wiki/pages/Hypr-Ecosystem/hyprlock/)
 
